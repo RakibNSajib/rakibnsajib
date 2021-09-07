@@ -15,10 +15,23 @@
 - ⚡ Fun fact: Music Lover
 <br>
 
+### 💪 Experienced with:
+<div>
+    <p align="left">
+      <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white /> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <br> <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white /> <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white /> <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
+</p>
+ 
+  </div>
+
+<br>
+
 ### 📈 GitHub Stats
 
 | <a href="https://github.com/rakibnsajib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibnsajib&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Sajib's github stats" /></a> | <a href="https://github.com/rakibnsajib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibnsajib&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+![status](https://github-readme-streak-stats.herokuapp.com/?user=rakibnsajib)
+
 <br>
 
 ### 🌎 Let's connect
