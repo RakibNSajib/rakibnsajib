@@ -35,6 +35,7 @@
 | <a href="https://github.com/rakibnsajib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibnsajib&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Sajib's github stats" /></a> | <a href="https://github.com/rakibnsajib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibnsajib&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibNSajib)
 
 <br>
 
